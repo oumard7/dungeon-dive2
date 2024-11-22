@@ -26,7 +26,7 @@ int main() {
         printf("\nYou are in Room [%d]\n", currentRoom->data);
         printf("Available exits: ");
         displayExits(currentRoom);
-        printf("Enter a command: ");
+        printf("Enter a command( move e,s,w,n): ");
 
         // Get the user command
         fgets(command, sizeof(command), stdin);
