@@ -1,0 +1,2 @@
+1. Most Important Learning: The most valuable knowledge from this assignment was understanding dynamic memory allocation. As it helped me learn to manage memory efficiently while having a clear and delaited line of code.
+2. Biggest Challenge: The biggest challenge was implementing dynamic memory management while ensuring there is no memory leaks, because managing and resizing memory while passing pointers accurately is kind of complicated. If I could redo it, I would start with a  detailed plan to better track allocations.
